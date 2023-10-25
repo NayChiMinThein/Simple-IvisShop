@@ -1,0 +1,10 @@
+.title{
+    background: #a234a2;
+    color: #fff;
+    margin: 40px auto;
+    padding: 20px 40px;
+    box-shadow: 6px 8px 12px #c8c8c8;
+    width: 400px;
+    border-radius: 6px;
+    letter-spacing: 2px;
+}
